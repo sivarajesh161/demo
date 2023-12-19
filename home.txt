@@ -1,0 +1,4 @@
+
+home page is nice edite on vi on bottle brach git bash 10:35pm 19/12
+:q
+
